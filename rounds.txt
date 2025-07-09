@@ -1,0 +1,38 @@
+5na 10re 10na 15
+20bu 10na 15
+49re 15bu 5na 10gr 15na 15
+5ye 5na 15
+80gr 10na 15
+10gr 4ye 5ye 7pi 10na 15
+25ye 12pi 10na 13
+15zb 2na 40
+140ye 5na 5zb 20na 15
+35pi 10na 5rb 20na 15
+10zb 5na 15
+10zb 5na 10rb 5na 20
+50zb 5na 20
+10rb 10na 40
+30zb 10na 4rb 10
+5c9 4na 40
+50bl 5na 10
+15rb 5na 20
+60bl 60zb 10na 10
+300pi 30na 5
+10c9 3na 30
+100bl 10na 20na 5
+100zb 10na 30na 5
+42pi 17bl 10zb 4rb 30na 10
+10rb 30na 4c9 10na 10
+10rb 7c9 20na 12
+80rb 20na 15
+20gr 1zb 20gr 1zb 30na 15
+100c9 20na 20
+10c9 15na 20c9 15na 70c9 5
+200rb 30na 2
+300re 1
+300bu 1
+300gr 1
+300ye 1
+300pi 1
+300c9 50na 2
+10000c9 1
