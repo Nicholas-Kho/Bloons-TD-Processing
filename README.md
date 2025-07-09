@@ -1,4 +1,8 @@
 # 2024 Bloons Tower Defense Processing
+## Credits
+- Concept from Ninja Kiwi's Bloons TD Series
+- Sound effects from Ninja Kiwi's Bloon TD5
+- Artwork created in PixilArt (Pixel art creator), designs heavily inspired from the original game
 
 ## Instructions:
 Run game.pde with processing.exe
